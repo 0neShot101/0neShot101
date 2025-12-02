@@ -6,13 +6,13 @@
   **Backend Developer | TypeScript Enthusiast | Bun Evangelist**
 
   <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0neShot101&theme=vue-dark&hide_border=true" height="160" alt="GitHub Stats" />
+  
 </div>
   
   <br/>
 
   <a href="https://github.com/0neShot101">
-    <img src="https://img.shields.io/github/followers/0neshot101?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/0neShot101?style=social" alt="GitHub followers">
   </a>
   <a href="https://npmjs.com/~0neshot101">
     <img src="https://img.shields.io/npm/dt/@oneshot101/discord-oauth2?label=Total%20Downloads&style=social" alt="NPM Downloads">
@@ -23,6 +23,32 @@
 
   I like to make things that just work and are simple to use.
 
+</div>
+
+---
+<div align="center">
+
+  <a href="https://github.com/0neShot101">
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0neShot101&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/0neShot101">
+    <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0neShot101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+
+  <br/>
+
+  <br/>
+
+  <a href="https://github.com/0neShot101">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0neShot101&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+  </a>
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=0neShot101&theme=tokyonight&column=6&margin-w=8&margin-h=8&no-frame=true" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---

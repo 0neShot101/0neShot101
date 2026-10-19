@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/avatars/879960022799495168/de2dec3d479c7f779f9260d7e001b409.webp?size=512" width="120" style="border-radius: 50%;" alt="Profile Pic"/>
+  <img src="https://avatars.githubusercontent.com/u/75005252?s=512&u=1b42913a242420fe6bc094cb963a43a67fdc5a2c&v=4" width="120" style="border-radius: 50%;" alt="Profile Pic"/>
   
   # Hi, I'm Andrew! 👋
   
